@@ -1,0 +1,33 @@
+
+.about-page{
+    color: #fff;
+    position: relative;
+    font-size: 40px;
+    align-content: flex-start;
+    margin-top: 15%;
+    animation: fadeIn 1.3s 1.3s backwards;
+    padding-left: 5%;
+}
+
+.bio-text{
+    position: relative;
+    font-size: 20px;
+    font-weight: 50;
+    padding-right: 50%;
+    padding-top: 10px;
+    padding-left: 5%;
+    animation: fadeIn 1.3s 1.3s backwards;
+
+}
+
+.profile{
+    position: absolute;
+    align-content: flex-end;
+    left: 60%;
+    height: 65vh;
+    width: 50vh;
+    top: -150px;
+    animation: fadeIn 1.3s 1.3s backwards;
+    
+}
+
